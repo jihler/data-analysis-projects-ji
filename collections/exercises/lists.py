@@ -16,8 +16,7 @@ cargo_hold[5] = 'space tether'
 # print(cargo_hold)
 
 # Remove the last item from the list with pop. Print the element removed and the updated list.
-cargo_hold[6] = 'pop'
-print(cargo_hold)
+
 
 # Remove the first item from the list with pop. Print the element removed and the updated list.
 

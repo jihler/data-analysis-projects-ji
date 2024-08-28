@@ -14,17 +14,17 @@ for s in strings:
     elif ' ' in s:
         print(f"'{s}' uses spaces as delimiters")
 
-# b) If the string uses commas to separate the words, 
-# split it into an array, 
-proto_list1 = "3,6,9,12"
-list1 = proto_list1.split(',')
-print(list1)
-# reverse the entries, 
-list1.reverse()
-print(list1)
-# and then join the array into a new comma separated string.
-reversed_string = ','.join(list1)
-print(reversed_string)
+# # b) If the string uses commas to separate the words, 
+# # split it into an array, 
+# proto_list1 = "3,6,9,12"
+# list1 = proto_list1.split(',')
+# print(list1)
+# # reverse the entries, 
+# list1.reverse()
+# print(list1)
+# # and then join the array into a new comma separated string.
+# reversed_string = ','.join(list1)
+# print(reversed_string)
 
 
 # c) If the string uses semicolons to separate the words, split it into an array, alphabetize the entries, and then join the array into a new comma separated string.
