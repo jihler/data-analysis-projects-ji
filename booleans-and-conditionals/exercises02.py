@@ -31,4 +31,4 @@ shuttle_speed = 15000
 
 # # 4) PREDICT: Do the code blocks shown in the Section D produce the same result?
 # yes
-# # print("Yes" or "No")
+

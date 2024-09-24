@@ -12,12 +12,12 @@ miles_per_km = 0.621
 # print(type(distance_to_moon_km)) 
 # print(type(miles_per_km)) 
 
-# Code your solution to exercises 3 and 4 here:
-miles_to_mars = distance_to_mars_km * miles_per_km
-hours_to_mars = miles_to_mars / shuttle_speed_mph
-days_to_mars = hours_to_mars / 24
+# # Code your solution to exercises 3 and 4 here:
+# miles_to_mars = distance_to_mars_km * miles_per_km
+# hours_to_mars = miles_to_mars / shuttle_speed_mph
+# days_to_mars = hours_to_mars / 24
 
-print(f"{shuttle_name} will take {days_to_mars:.2f} days to reach Mars.")
+# print(f"{shuttle_name} will take {days_to_mars:.2f} days to reach Mars.")
 
 # Code your solution to exercise 5 here
 miles_to_moon = distance_to_moon_km * miles_per_km
